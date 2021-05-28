@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
+# Web Application URL
+
+The site is published at https://g-aneeka.github.io/recipe/
+
 ## Screenshots
 
 ![Screenshot (2249)](https://user-images.githubusercontent.com/56719045/117004843-2bb9bf80-ad04-11eb-8128-301ccb77afbb.png)
